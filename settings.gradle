@@ -1,0 +1,3 @@
+include ':filePicker'
+include ':app'
+rootProject.name = "filePickerExample"

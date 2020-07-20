@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="hy_mc_update.apk"
+        path="/" />
+    <external-path
+        name="hy_mc_update.apk"
+        path="/" />
+    <external-path
+        name="external_storage_root"
+        path="." />
+    <root-path
+        name="root"
+        path="/data"/>
+</paths>

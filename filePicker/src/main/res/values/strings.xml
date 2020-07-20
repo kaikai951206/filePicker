@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">filePicker</string>
+    <string name="without_file">没有文件</string>
+    <string name="go_back">返回</string>
+    <string name="local_upload">本地上传</string>
+    <string name="upload">上传</string>
+</resources>

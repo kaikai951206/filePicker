@@ -40,7 +40,7 @@
   
 
 ```java
-	<dependency>
+   <dependency>
     	<groupId>com.sky</groupId>
         <artifactId>filePicker</artifactId>
         <version>1.0.2</version>

@@ -27,11 +27,13 @@
   **添加到项目中**
   
   Via Gradle:
+  
     ```java
         implementation 'com.sky.filePicker:filePicker:1.0.2'
     ```
     
   Via Maven:
+  
     ```java
         <dependency>
           <groupId>com.sky</groupId>

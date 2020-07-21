@@ -49,7 +49,7 @@ publish {
     userOrg = 'kaikai951206'
     groupId = 'com.sky.filePicker'
     artifactId = 'filePicker'
-    publishVersion = '1.0.1'
+    publishVersion = '1.0.3'
     desc = 'filepicker'
     website = 'https://github.com/kaikai951206/filePicker'
 }

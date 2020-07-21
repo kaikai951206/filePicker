@@ -29,7 +29,7 @@
   Via Gradle:
   
     ```java
-        implementation 'com.sky.filePicker:filePicker:1.0.2'
+      implementation 'com.sky.filePicker:filePicker:1.0.2'
     ```
     
   Via Maven:

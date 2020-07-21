@@ -1,6 +1,7 @@
 ## filePicker
 
 **使用步骤**
+
   1.跳转页面
   ```java
     Intent intent=new Intent(MainActivity.this, LocalUpdateActivity.class);
@@ -28,4 +29,13 @@
   Via Gradle:
     ```java
         implementation 'com.sky.filePicker:filePicker:1.0.2'
+    ```
+    
+  Via Maven:
+    ```java
+        <dependency>
+          <groupId>com.sky</groupId>
+          <artifactId>filePicker</artifactId>
+          <version>1.0.2</version>
+        </dependency>
     ```
